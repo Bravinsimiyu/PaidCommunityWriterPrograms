@@ -79,7 +79,7 @@ A list of companies that have paid Developer Community Writer Programs.
   > Technical tutorials and demos using Okta's products.
 
 - [PHP Architect](https://www.phparch.com/editorial/write-for-us/) - $175 per piece
-  > Thought leadership and technical articles about PHP.
+  > Thought leadership and technical articles about PHP
 
 - [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
   > Applications are currently closed.
